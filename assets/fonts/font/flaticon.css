@@ -1,0 +1,163 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/02/2020 12:24
+  	*/
+	
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("./Flaticon.eot");
+	    src: url("./Flaticon.eot?#iefix") format("embedded-opentype"), url("./Flaticon.woff2") format("woff2"), url("./Flaticon.woff") format("woff"), url("./Flaticon.ttf") format("truetype"), url("./Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("./Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+	
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-style: normal;
+	}
+	
+	.flaticon-clock:before {
+	    content: "\f100";
+	}
+	
+	.flaticon-location:before {
+	    content: "\f101";
+	}
+	
+	.flaticon-phone:before {
+	    content: "\f102";
+	}
+	
+	.flaticon-phone-1:before {
+	    content: "\f103";
+	}
+	
+	.flaticon-phone-2:before {
+	    content: "\f104";
+	}
+	
+	.flaticon-position:before {
+	    content: "\f105";
+	}
+	
+	.flaticon-marker:before {
+	    content: "\f106";
+	}
+	
+	.flaticon-mail:before {
+	    content: "\f107";
+	}
+	
+	.flaticon-send:before {
+	    content: "\f108";
+	}
+	
+	.flaticon-email:before {
+	    content: "\f109";
+	}
+	
+	.flaticon-mail-1:before {
+	    content: "\f10a";
+	}
+	
+	.flaticon-paper-plane:before {
+	    content: "\f10b";
+	}
+	
+	.flaticon-send-1:before {
+	    content: "\f10c";
+	}
+	
+	.flaticon-magnifying-glass:before {
+	    content: "\f10d";
+	}
+	
+	.flaticon-appointment:before {
+	    content: "\f10e";
+	}
+	
+	.flaticon-in-time:before {
+	    content: "\f10f";
+	}
+	
+	.flaticon-user:before {
+	    content: "\f110";
+	}
+	
+	.flaticon-help:before {
+	    content: "\f111";
+	}
+	
+	.flaticon-business:before {
+	    content: "\f112";
+	}
+	
+	.flaticon-career:before {
+	    content: "\f113";
+	}
+	
+	.flaticon-arrow:before {
+	    content: "\f114";
+	}
+	
+	.flaticon-play:before {
+	    content: "\f115";
+	}
+	
+	.flaticon-gardener:before {
+	    content: "\f116";
+	}
+	
+	.flaticon-plus:before {
+	    content: "\f117";
+	}
+	
+	.flaticon-plus-1:before {
+	    content: "\f118";
+	}
+	
+	.flaticon-lawn-mower:before {
+	    content: "\f119";
+	}
+	
+	.flaticon-gardener-1:before {
+	    content: "\f11a";
+	}
+	
+	.flaticon-achievement:before {
+	    content: "\f11b";
+	}
+	
+	.flaticon-clipboard:before {
+	    content: "\f11c";
+	}
+	
+	.flaticon-quote:before {
+	    content: "\f11d";
+	}
+	
+	.flaticon-water:before {
+	    content: "\f11e";
+	}
+	
+	.flaticon-snow:before {
+	    content: "\f11f";
+	}
+	
+	.flaticon-yard:before {
+	    content: "\f120";
+	}
+	
+	.flaticon-back:before {
+	    content: "\f121";
+	}
